@@ -23,8 +23,8 @@
 ---
 
 ## 🌟 Projetos em Destaque
-- **[Meu Portfólio Pessoal](https://github.com/CaioRMagno/portfolio)**: Meu espaço criativo! 💡  
-- **[Landing Page](https://github.com/CaioRMagno/landing-page)**: Aprendendo e aplicando boas práticas de design e código.
+- **[Meu Portfólio Pessoal](https://github.com/CaioRMagno?tab=repositories)**: Meu espaço criativo! 💡  
+- **[Landing Page](https://caiomagno.netlify.app)**: Aprendendo e aplicando boas práticas de design e código.
 
 ---
 
