@@ -1,4 +1,4 @@
-# 🧑‍💻 Caio Magno | Aventureiro no Mundo da Programação
+1# 🧑‍💻 Caio Magno | Aventureiro no Mundo da Programação
 <div align="center">
   <img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQybHN4Ymx1dXZhbHVjanBqZzhvcnEydG9nZjNnb2g3eWdwaWZubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je4xmwf83hxYwnu/giphy.webp width="250" height="200" alt="coding gif"/>
 </div>
@@ -34,7 +34,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioRMagno&theme=tokyonight" width="400">
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=CaioRMagno&theme=react-dark&hide_border=true)
 
 ---
 
