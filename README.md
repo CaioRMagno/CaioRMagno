@@ -47,7 +47,7 @@
 
 
 <p align="center">
-  Feito com ❤️ por Caio Magno | [💬 Vamos nos conectar!](https://www.linkedin.com/in//caio-ferreira-865748163)
+  Feito com ❤️ por Caio Magno | [💬 Vamos nos conectar!]
 </p>
 
 <div align="center">
