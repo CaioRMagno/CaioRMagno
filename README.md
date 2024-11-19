@@ -47,10 +47,10 @@
 
 
 <p align="center">
-  Feito com ❤️ por Caio Magno | [💬 Vamos nos conectar!](https://www.linkedin.com/in/seu-usuário-linkedin)
+  Feito com ❤️ por Caio Magno | [💬 Vamos nos conectar!](https://www.linkedin.com/in//caio-ferreira-865748163)
 </p>
 
 <div align="center">
   <a href="https://instagram.com/caiorl_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedin-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in//caio-ferreira-865748163" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
